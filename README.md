@@ -3,5 +3,5 @@ title: My README
 charset: utf-8
 ---
 # python-crawler
--Ğ¡ËµÏÂÔØÆ÷
-	-Ê¹ÓÃrequest¿â
+- å°è¯´ä¸‹è½½å™¨
+	- ä½¿ç”¨requeståº“
