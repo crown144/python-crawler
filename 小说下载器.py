@@ -47,7 +47,7 @@ def save(name,title,content):
     '''
     保存章节
     '''
-    file = os.path.dirname(os.path.abspath(__file__))
+    file = os.path.dirname(os.path.abspath(__file__)) + '\\' + 'download' + '\\'
     path = os.path.join(file, name)
     if not os.path.exists(path):
         os.mkdir(path)
